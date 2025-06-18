@@ -4,5 +4,5 @@
 
 #Example
 ```
-python3 subdomain_finder youtube.com
+python3 subdomain_finder example.com
 ```
