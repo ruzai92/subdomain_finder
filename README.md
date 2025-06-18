@@ -1,1 +1,3 @@
-# subdomain_finder
+# subdomain finder
+
+#for education purpose only
